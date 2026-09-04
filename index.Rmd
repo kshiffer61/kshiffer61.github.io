@@ -1,0 +1,15 @@
+---
+title: "Kathleen Shiffer"
+image: "DSA_2507.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/kathleen-shiffer-0412a1301/"
+  - label: GitHub
+    url: "https://github.com/kshiffer61"
+  - label: Email
+    url: "mailto:kshiffer61@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Originally from the San Fernando Valley in California, I moved to the East Coast to study statistics and economics at Swarthmore College, where I also played on the varsity tennis team. I’m now a biostatistics graduate student at Johns Hopkins, where I’m particularly interested in clinical trial methodology and causal inference in public health.
