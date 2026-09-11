@@ -9,7 +9,49 @@ links:
   - label: Email
     url: "mailto:kshiffer61@gmail.com"
 output:
-  postcards::jolla_blue
+  postcards::solana: default
 ---
- 
+
+## About Me
+
 Originally from the San Fernando Valley in California, I moved to the East Coast to study statistics and economics at Swarthmore College, where I also played on the varsity tennis team. I’m now a biostatistics graduate student at Johns Hopkins, where I’m particularly interested in clinical trial methodology and causal inference in public health.
+
+## Education
+
+**Johns Hopkins University**  
+M.S./Sc.M. in Biostatistics | 2026 - 2028
+
+**Swarthmore College**  
+B.A. in Statistics and Economics | 2022 - 2026
+
+## Research & Data Experience
+
+**Extern** | *Healthcare Data Analytics Extern*  
+In collaboration with Trubridge, I combined 10 years of ACS microdata (2010–2019) with state policy records to evaluate the health outcomes of Medicaid expansion.  Evaluated physical, mobility, cognitive, and self-care limitations using two-way fixed-effects difference-in-differences and contiguous border-county pair comparisons to handle staggered adoption, verifying parallel trends across expansion timing cohorts.Estimated significant coverage gains (+9.2 percentage points for Medicaid) alongside measurable reductions in physical (-2.4 pp), mobility (-1.5 pp), and cognitive (-1.7 pp) difficulties.Built an interactive Python dashboard to visualize temporal trends and effect sizes across states for Trubridge policy stakeholders.
+
+**WPI Center for Industrial Mathematics and Statistics** | *Research Intern*                             
+On a team of three, I focused on building predictive machine learning models to classify commodity price directional movements using high-frequency Bloomberg Terminal time-series data. I trained and evaluated supervised learning algorithms—including Logistic Regression, Support Vector Machines (SVM), and Random Forests—to capture market trends. While baseline models using standard statistical moments (skewness, kurtosis, volatility) yielded modest results, applying path signature methods to capture non-linear path dynamics significantly boosted our model validation accuracy from 70% to over 90%. I co-authored our findings, which were published in [*Wilmott Magazine*](https://wilmott.com/wilmott-magazine-september-2025-issue/), and presented our methodology at the Joint Mathematics Meetings (JMM) 2025. 
+
+**SETVI** | *Business Data Analyst Intern*  
+I worked with raw platform usage data to help clients understand how their teams were using the software. I queried user activity logs and sales rep interaction data out of Databricks, then built custom ThoughtSpot dashboards that were delivered directly to client management teams. These dashboards gave managers a clear, real-time look at daily platform usage, feature adoption, and individual rep performance.
+
+## Teaching & Academic Service
+
+**Swarthmore College** | Statistics Clinician & Teaching Assistant  
+Led weekly statistics clinics and aided in teaching Econometrics, assisting students with simulation methods and core inference concepts in R.
+
+## Technical Skills
+
+- **Languages:** R, Python, Stata
+- **Methodologies:** Causal Inference, Machine Learning, Longitudinal Data Analysis, Data Visualization
+
+## Selected Writing Samples & Projects
+**Medicaid Expansion and Maternal Mortality**  
+*Undergraduate Econometrics Project | Swarthmore College*  
+Evaluated the impact of state-level ACA Medicaid expansion on maternal health outcomes using difference-in-differences modeling on observational health data. Explores confounding adjustment and policy impacts across demographic cohorts.  
+[Read Paper (PDF)](ECON35_Paper__Medicaid_Expansion_and_Maternal_Mortality.pdf)
+
+**Evaluating Causal Identification in Higher Education: Community College vs. Four-Year Outcomes**  
+*Methodological Commentary & Literature Review | Swarthmore College*  
+A critical evaluation of current empirical literature on early career wage trajectories and higher education pathways. Critiques standard observational study designs, examining unobserved selection bias, confounding, and the validity of common identification strategies (such as instrumental variables and propensity score matching) when estimating non-experimental treatment effects.  
+[Read Paper (PDF)](Kathleen%20Shiffer_%20Writing%20Sample.pdf)
